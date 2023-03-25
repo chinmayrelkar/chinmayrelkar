@@ -3,18 +3,19 @@
 <head>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap" rel="stylesheet">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Chinmay Relkar’s Resume</title>
 	<style>
 		html {
 			text-align: center;
+			line-height: 2;
 		}
 
 		body {
 			text-align: left;
-			font-family: 'Quicksand', sans-serif;
+			font-family: 'Comfortaa', cursive;
 			max-width: 978px;
 			padding-top: 50px;
 			padding-left: 25px;
@@ -40,6 +41,25 @@
 		seperator {
 			color: #d9765a;
 		}
+		.role-title{
+			font-size: small;
+			color: #710;
+		}
+		p {
+			font-size: medium;
+			color: #000;
+			font-size: small;
+		}
+		ul, p, h3, h2, h1 {
+			margin: 0;
+		}
+		h3, h2 {
+			border-width: 1px 0px 0px 0px;
+			border-style: solid;
+		}
+		h3, h2, h1{
+			color: #4f2f2f;
+		}
 	</style>
 </head>
 
@@ -61,8 +81,11 @@
 		Computer
 		Networks, Object Oriented Design, and Functional Programming.</p>
 	<h2>Experience</h2>
+	<h3><a href="https://barraiser.com">Bar Raiser</a></h3>
+	<p class="role-title">Interview Expert ( June 22 - Present )</p>
+	<p>Mostly the backend. Sometimes Frontend. Platform always.</p>
 	<h3><a href="https://cohesive.so">Cohesive by Unacademy Group</a></h3>
-	<p>SENIOR SOFTWARE ENGINEER ( March 22 - Present )</p>
+	<p class="role-title">Senior Software Engineer ( March 22 - Present )</p>
 	<p>Mostly the backend. Sometimes Frontend. Platform always.</p>
 	<ul>
 		<li>Currently building a <a href="https://cohesive.so/">SaaS marketplace</a></li>
@@ -77,7 +100,7 @@
 	</ul>
 	<p>Golang, Kubernetes, Helm, MySQL, MongoDB, AWS, SQS</p>
 	<h3><a href="https://amazon.com">Amazon</a></h2>
-		<p>SDE EXPANSION &amp; ENGAGEMENT ( August 21 - March 22 )</p>
+		<p class="role-title">SDE EXPANSION &amp; ENGAGEMENT ( August 21 - March 22 )</p>
 		<p>In App Advertising on Amazon App Store</p>
 		<ul>
 			<li>Drove IAB compliance across Amazon Appstore.</li>
@@ -99,7 +122,7 @@
 		</ul>
 		<p>Java, Python, Amazon RDS, MongoDB, DynamoDB</p>
 		<h3><a href="https://100ms.live/">100ms.live</a></h2>
-			<p>SOFTWARE ENGINEER E3 ( February 21 - July 21 )</p>
+			<p class="role-title">Software Engineer E3 ( February 21 - July 21 )</p>
 			<p>Beam - On demand Live Streaming and Recording of Video Confs
 			</p>
 			<ul>
@@ -136,8 +159,7 @@
 			<p>GoLang, RTMP, gRPC, MongoDB, Redis, Redshift, Kubernetes,
 				Helm, WebRTC</p>
 			<h3><a href="https://www.slb.com/">Schlumberger</a></h3>
-			<p>Application Engineer AUG ‘20 - FEB ‘21</p>
-			<p>Associate Application Engineer JUL ’19 - AUG ’20</p>
+			<p class="role-title">Application Engineer AUG ‘20 - FEB <seperator>|</seperator> ‘21 Associate Application Engineer JUL ’19 - AUG ’20</p>
 			<p>Services Integration Analytics System</p>
 			<ul>
 				<li>Built a distributed system to collect events about service integrations with
@@ -170,7 +192,7 @@
 			<p>Java, Typescript, Python, Golang, Kafka, SpringBoot, Angular,
 				Kubernetes, Terraform, Helm, PostgresQL, BigQuery, MongoDB, ElasticSearch</p>
 			<h3><a href="http://www.garagebot.in/">GarageBot</a></h3>
-			<p>Android Developer Intern (Feb 18 - July 19)</p>
+			<p class="role-title">Android Developer Intern (Feb 18 - July 19)</p>
 			<ul>
 				<li>Built GarageBot Inventory App from zero in Flutter (Android/Web)</li>
 			</ul>
@@ -178,7 +200,7 @@
 				<li>Contributed heavily to the GarageBot App in Java (Android)</li>
 			</ul>
 			<h3><a href="https://arraypointer.com/">ArrayPointer</a></h3>
-			<p>DataScience Intern</p>
+			<p class="role-title">DataScience Intern</p>
 			<ul>
 				<li>Built Recommendation Engine based on user activity for the Maza group of apps.
 				</li>
