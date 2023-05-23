@@ -14,8 +14,7 @@ GoLang, Python, Java, WebRTC, RTMP, gRPC, Websockets, SQL, NoSQL, Redis, Kafka, 
 
 ### Cohesive by Unacademy Group  
 
-**Sr. Software Engineer**  
-March 22 - Present
+**Sr. Software Engineer**  March 22 - Present
 
 * Backend development for various products, driving company strategy pivots.
 * Sole platform engineer responsible for AWS infrastructure setup and observability.
@@ -44,7 +43,7 @@ March 22 - Present
 
 ### Schlumberger
 
-**Application Engineer** JULY '19 - FEB '21
+**Application Engineer** July 19 - February 21
 
 * Built a distributed system to collect events for service integrations, streaming 10K events/sec into Apache Kafka.
 * Developed real-time analytics and dashboard for pattern recognition on historical events.
