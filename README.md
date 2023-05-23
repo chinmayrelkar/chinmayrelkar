@@ -61,8 +61,9 @@ March 22 - Present
 
 ## Education
 
-**Savitribai Phule Pune University**  
-**Bachelor of Engineering in Information Technology**  July 2015 - July 2019
+### Bachelor of Engineering in Information Technology**
 
-> * Joint Secretary of Students' Council
-> * GPA: 8.1/10  
+**Savitribai Phule Pune University** July 2015 - July 2019
+
+* Joint Secretary of Students' Council
+* GPA: 8.1/10**
