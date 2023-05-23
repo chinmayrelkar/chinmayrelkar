@@ -12,7 +12,7 @@ GoLang, Python, Java, WebRTC, RTMP, gRPC, Websockets, SQL, NoSQL, Redis, Kafka, 
 
 ## Experience
 
-**Cohesive by Unacademy Group**  
+### Cohesive by Unacademy Group
 **Sr. Software Engineer**  
 March 22 - Present
 
@@ -24,7 +24,7 @@ March 22 - Present
 - Contributed to Cohesive Cloud (Ephemeral Test environments on the go with no DevOps).
 - Contributed to building Cohesive Live, a production-ready version of Cohesive Cloud with improved user experience.
 
-**Amazon**  
+### Amazon  
 **SDE - Expansion & Engagement**  August 21 - March 22
 
 - Drove IAB compliance for in-app advertising on Amazon Appstore.
@@ -32,7 +32,7 @@ March 22 - Present
 - Built Tax Category Override for in-app purchases.
 - Worked on the Promotions Console, conducting benchmarking studies and competitive analysis of ad and promotion types.
 
-**100ms.live**  
+### 100ms.live
 **SOFTWARE ENGINEER E3** February 21 - July 21
 
 - Designed and developed Beam, an on-demand live streaming and recording service for video conferences.
@@ -41,7 +41,7 @@ March 22 - Present
 - Designed a webhook platform for developers to consume key events.
 - Worked on WebRTC implementation, adding features and driving ZeroOps infrastructure.
 
-**Schlumberger**  
+### Schlumberger
 **Application Engineer** JULY '19 - FEB '21
 
 - Built a distributed system to collect events for service integrations, streaming 10K events/sec into Apache Kafka.
@@ -50,13 +50,13 @@ March 22 - Present
 - Contributed to data archival management, implementing a 3-layer AES256 data encryption and web client design.
 - Drove two infrastructure management projects as POC using Terraform, with one involving HashiCorp.
 
-**GarageBot**  
+### GarageBot
 **Android Developer Intern**  July 19 - February 21
 
 - Built GarageBot Inventory App from scratch using Flutter (Android/Web).
 - Contributed significantly to the GarageBot App in Java for Android.
 
-**ArrayPointer**  
+### ArrayPointer 
 **Data Science Intern**  Feb 18 - July 19
 
 - Developed a recommendation engine based on user activity for the Maza group of apps.
@@ -65,7 +65,7 @@ March 22 - Present
 
 ## Education
 
-**Savitribai Phule Pune University**  
+### Savitribai Phule Pune University
 **Bachelor of Engineering in Information Technology**  July 2015 - July 2019
 
 - Joint Secretary of Students' Council
