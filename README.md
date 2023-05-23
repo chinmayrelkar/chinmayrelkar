@@ -1,6 +1,6 @@
 # Chinmay Relkar
 
-**Email:** <chinmayrelkar@gmail.com>  **Phone:** +917620437776 **LinkedIn:** [linkedin.com/chnmy](linkedin.com/chnmy)
+Email: chinmayrelkar@gmail.com | Phone: +917620437776 | LinkedIn: [linkedin.com/chnmy](linkedin.com/chnmy)
 ---
 
 ## Skills
