@@ -64,4 +64,4 @@ GoLang, Python, Java, WebRTC, RTMP, gRPC, Websockets, SQL, NoSQL, Redis, Kafka, 
 **Savitribai Phule Pune University** July 2015 - July 2019
 
 * Joint Secretary of Students' Council
-* GPA: 8.1/10
+* GPA: 8.1
