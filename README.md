@@ -1,6 +1,6 @@
 # Chinmay Relkar
 
-Email: chinmayrelkar@gmail.com | Phone: +917620437776 | LinkedIn: [linkedin.com/chnmy](linkedin.com/chnmy)
+Email: chinmayrelkar@gmail.com | Phone: +917620437776 | LinkedIn: [linkedin.com/in/chnmy/](https://www.linkedin.com/in/chnmy/)
 
 ---
 
@@ -11,15 +11,17 @@ GoLang, Python, Java, WebRTC, RTMP, gRPC, Websockets, SQL, NoSQL, Redis, Kafka, 
 ---
 
 ## Experience
+### Unacademy Group
+**Senior Software Engineer**  December 22 - Present
+* Optimizing platform costs for online classroom experience
 
 ### Cohesive by Unacademy Group  
 
-**Sr. Software Engineer**  March 22 - Present
-
+**Senior Software Engineer**  March 22 - November 22
 * Backend development for various products, driving company strategy pivots.
 * Sole platform engineer responsible for AWS infrastructure setup and observability.
-* Built Cohesive AI, a content generation tool, with ownership of payments integration.
-* Managed 4 product engineering teams while building apps for the Saas Marketplace.
+* Built Cohesive AI, a content generation tool, with ownership of payments integration and complete platform.
+* Managed 4 product engineering teams of intens while building apps for the Saas Marketplace. Aiming to solve the supply problem.
 * Responsible for all SDKs (Python, Go, Ruby, JavaScript).
 * Contributed to building Cohesive Cloud and Cohesive Live, improving test environments and production experience.
 
